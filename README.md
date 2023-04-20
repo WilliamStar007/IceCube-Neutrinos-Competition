@@ -1,5 +1,6 @@
-# IceCube-Neutrinos-Competition
-IceCube - Neutrinos in Deep Ice (Kaggle Competition)
+# IceCube - Neutrinos in Deep Ice (Kaggle Competition)
+
+This is my first Kagge Competition!
 
 Kaggle Profile: www.kaggle.com/williamstar007  
 Dataset: www.kaggle.com/competitions/icecube-neutrinos-in-deep-ice/data  
